@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[alx:home|Door43 (alx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-alx|d43-alx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-alx/archive/master.zip|d43-alx.zip]]
+
+**Recent Changes**
+{{changes>ns = alx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/alx|Ethnologue data]]
+
